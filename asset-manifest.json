@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/OneSolution/static/css/main.852b1d63.css",
+    "main.js": "/OneSolution/static/js/main.0850a15e.js",
+    "static/js/787.2223dfdc.chunk.js": "/OneSolution/static/js/787.2223dfdc.chunk.js",
+    "static/media/home-screen-img.png": "/OneSolution/static/media/home-screen-img.4f5dd715ed61ceb0208e.png",
+    "static/media/logo.png": "/OneSolution/static/media/logo.e95e30eac0273e8f6f04.png",
+    "static/media/indian-flag.png": "/OneSolution/static/media/indian-flag.1df1b0861c0cd65e674e.png",
+    "index.html": "/OneSolution/index.html",
+    "main.852b1d63.css.map": "/OneSolution/static/css/main.852b1d63.css.map",
+    "main.0850a15e.js.map": "/OneSolution/static/js/main.0850a15e.js.map",
+    "787.2223dfdc.chunk.js.map": "/OneSolution/static/js/787.2223dfdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.852b1d63.css",
+    "static/js/main.0850a15e.js"
+  ]
+}
